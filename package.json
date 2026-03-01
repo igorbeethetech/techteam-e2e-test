@@ -1,0 +1,9 @@
+{
+  "name": "techteam-e2e-test",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node test.js",
+    "build": "tsc"
+  }
+}
